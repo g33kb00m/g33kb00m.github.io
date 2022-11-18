@@ -1,0 +1,7 @@
+http://example.com/post/hello-world.html
+http://example.com/about/index.html
+http://example.com/post/encrypt.html
+http://example.com/post/test.html
+http://example.com/
+http://example.com/tags/Tag/
+http://example.com/categories/Cate/
