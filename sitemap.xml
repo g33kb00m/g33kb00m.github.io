@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/post/test.html</loc>
+    <loc>http://www.geekboom.org/post/test.html</loc>
     
     <lastmod>2022-11-19</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://www.geekboom.org/about/index.html</loc>
     
     <lastmod>2022-11-18</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/encrypt.html</loc>
+    <loc>http://www.geekboom.org/post/encrypt.html</loc>
     
     <lastmod>2022-11-18</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/hello-world.html</loc>
+    <loc>http://www.geekboom.org/post/hello-world.html</loc>
     
     <lastmod>2022-11-18</lastmod>
     
@@ -39,16 +39,16 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-11-19</lastmod>
+    <loc>http://www.geekboom.org/</loc>
+    <lastmod>2022-11-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/Tag/</loc>
-    <lastmod>2022-11-19</lastmod>
+    <loc>http://www.geekboom.org/tags/Tag/</loc>
+    <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -56,8 +56,8 @@
 
   
   <url>
-    <loc>http://example.com/categories/Cate/</loc>
-    <lastmod>2022-11-19</lastmod>
+    <loc>http://www.geekboom.org/categories/Cate/</loc>
+    <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
