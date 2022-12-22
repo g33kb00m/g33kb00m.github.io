@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.geekboom.org//post/ERROR-%E8%A7%A3%E5%86%B3-python-nltk-punkt-not-found-%E9%97%AE%E9%A2%98-zh.html</loc>
+    <lastmod>2022-12-22</lastmod>
+  </url>
+  <url>
     <loc>http://www.geekboom.org//post/test.html</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-12-21</lastmod>
   </url>
   <url>
     <loc>http://www.geekboom.org//post/encrypt.html</loc>
-    <lastmod>2022-11-18</lastmod>
+    <lastmod>2022-12-21</lastmod>
   </url>
   <url>
     <loc>http://www.geekboom.org//post/hello-world.html</loc>
-    <lastmod>2022-11-18</lastmod>
+    <lastmod>2022-12-21</lastmod>
   </url>
 </urlset> 

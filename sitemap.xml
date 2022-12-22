@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.geekboom.org/post/ERROR-%E8%A7%A3%E5%86%B3-python-nltk-punkt-not-found-%E9%97%AE%E9%A2%98-zh.html</loc>
+    
+    <lastmod>2022-12-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.geekboom.org/post/test.html</loc>
     
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.geekboom.org/post/encrypt.html</loc>
+    
+    <lastmod>2022-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.geekboom.org/post/hello-world.html</loc>
+    
+    <lastmod>2022-12-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19,28 +46,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://www.geekboom.org/post/encrypt.html</loc>
-    
-    <lastmod>2022-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.geekboom.org/post/hello-world.html</loc>
-    
-    <lastmod>2022-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://www.geekboom.org/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-12-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +57,35 @@
   
   <url>
     <loc>http://www.geekboom.org/tags/Tag/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.geekboom.org/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</loc>
+    <lastmod>2022-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.geekboom.org/tags/Python/</loc>
+    <lastmod>2022-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.geekboom.org/tags/nltk/</loc>
+    <lastmod>2022-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.geekboom.org/tags/punkt/</loc>
+    <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -57,7 +94,14 @@
   
   <url>
     <loc>http://www.geekboom.org/categories/Cate/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.geekboom.org/categories/Python-%E6%8A%A5%E9%94%99/</loc>
+    <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
