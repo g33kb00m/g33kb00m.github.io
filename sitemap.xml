@@ -65,7 +65,7 @@
 
   
   <url>
-    <loc>http://www.geekboom.org/tags/The-dysfunction/</loc>
+    <loc>http://www.geekboom.org/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</loc>
     <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -86,20 +86,6 @@
   </url>
   
   <url>
-    <loc>http://www.geekboom.org/tags/PUNKT/</loc>
-    <lastmod>2022-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.geekboom.org/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</loc>
-    <lastmod>2022-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.geekboom.org/tags/punkt/</loc>
     <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -113,14 +99,21 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://www.geekboom.org/categories/Python-error/</loc>
+    <loc>http://www.geekboom.org/tags/The-dysfunction/</loc>
     <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+  <url>
+    <loc>http://www.geekboom.org/tags/PUNKT/</loc>
+    <lastmod>2022-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
   
   <url>
     <loc>http://www.geekboom.org/categories/Python-%E6%8A%A5%E9%94%99/</loc>
@@ -131,6 +124,13 @@
   
   <url>
     <loc>http://www.geekboom.org/categories/Cate/</loc>
+    <lastmod>2022-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.geekboom.org/categories/Python-error/</loc>
     <lastmod>2022-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
